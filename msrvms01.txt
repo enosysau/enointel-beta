@@ -1,0 +1,13 @@
+cve@@@@CVE-2017-0199
+cve@@@@CVE-2017-5638
+cve@@@@CVE-2012-0158
+cve@@@@CVE-2019-0604
+cve@@@@CVE-2017-0143
+cve@@@@CVE-2018-4878
+cve@@@@CVE-2017-8759
+cve@@@@CVE-2015-1641
+cve@@@@CVE-2018-7600
+cve@@@@CVE-2019-19781
+cve@@@@CVE-2019-11510
+mskb@@@@kb6969696
+signature="*horrible vuln*"
