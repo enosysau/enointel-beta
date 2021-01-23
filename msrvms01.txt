@@ -1,6 +1,8 @@
 #cve@@@@blah
-#mskb@@@@kb6666
-#
+#mskb@@@@blah
+#bugtraq@@@@blah
+#msft@@@@blah
+#signature@@@@blah
 #
 cve@@@@CVE-2017-0199
 cve@@@@CVE-2017-5638
