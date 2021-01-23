@@ -15,3 +15,4 @@ cve@@@@CVE-2019-19781
 cve@@@@CVE-2019-11510
 mskb@@@@kb6969696
 signature@@@@*accellion*
+signature@@@@*sonicwall*
