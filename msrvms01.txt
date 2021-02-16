@@ -19,3 +19,4 @@ cve@@@@CVE-2020-1350
 mskb@@@@kb6969696
 signature@@@@*accellion*
 signature@@@@*sonicwall*
+signature@@@@*centreon*
