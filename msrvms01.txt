@@ -20,3 +20,4 @@ mskb@@@@kb6969696
 signature@@@@*accellion*
 signature@@@@*sonicwall*
 signature@@@@*centreon*
+signature@@@@*teamviewer*
