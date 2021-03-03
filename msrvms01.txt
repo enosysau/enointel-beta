@@ -22,4 +22,4 @@ signature@@@@*accellion*
 signature@@@@*sonicwall*
 signature@@@@*centreon*
 signature@@@@*teamviewer*
-signature@@@@*exchange*
+signature@@@@*microsoft exchange*
