@@ -27,3 +27,5 @@ signature@@@@*F5 BIG-IP * Interface*
 signature@@@@*F5 Networks BIG-IQ*
 cve@@@@CVE-2021-26897
 signature@@@@Microsoft DNS Server *
+signature@@@@*SAP NetWeaver*
+signature@@@@*SAP Solution Manager*
