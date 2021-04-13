@@ -29,3 +29,9 @@ cve@@@@CVE-2021-26897
 signature@@@@Microsoft DNS Server *
 signature@@@@*SAP NetWeaver*
 signature@@@@*SAP Solution Manager*
+# 
+# 
+cve@@@@CVE-2021-28480
+cve@@@@CVE-2021-28481
+cve@@@@CVE-2021-28482
+cve@@@@CVE-2021-28483
