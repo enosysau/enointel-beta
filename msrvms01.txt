@@ -35,3 +35,19 @@ cve@@@@CVE-2021-28480
 cve@@@@CVE-2021-28481
 cve@@@@CVE-2021-28482
 cve@@@@CVE-2021-28483
+#
+#
+# Russian Foreign Intelligence Service Exploiting Five Publicly Known Vulnerabilities to Compromise U.S. and Allied Networks
+# https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2573391/russian-foreign-intelligence-service-exploiting-five
+signature@@@@*Fortinet*
+cve@@@@CVE-2018-13379
+signature@@@@*zimbra*
+cve@@@@CVE-2019-9670
+signature@@@@*pulse*secure*
+cve@@@CVE-2019-11510
+signature@@@@*netscaler*
+signature@@@@*citrix*adc*
+cve@@@CVE-2019-19781
+signature@@@@*VMware*One*
+cve@@@CVE-2020-4006
+#
