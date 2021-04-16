@@ -44,7 +44,7 @@ cve@@@@CVE-2018-13379
 signature@@@@*zimbra*
 cve@@@@CVE-2019-9670
 signature@@@@*pulse*secure*
-cve@@@CVE-2019-11510
+cve@@@@CVE-2019-11510
 signature@@@@*netscaler*
 signature@@@@*citrix*adc*
 cve@@@@CVE-2019-19781
