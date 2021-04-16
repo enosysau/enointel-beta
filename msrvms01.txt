@@ -47,7 +47,7 @@ signature@@@@*pulse*secure*
 cve@@@CVE-2019-11510
 signature@@@@*netscaler*
 signature@@@@*citrix*adc*
-cve@@@CVE-2019-19781
+cve@@@@CVE-2019-19781
 signature@@@@*VMware*One*
-cve@@@CVE-2020-4006
+cve@@@@CVE-2020-4006
 #
