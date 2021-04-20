@@ -51,3 +51,12 @@ cve@@@@CVE-2019-19781
 signature@@@@*VMware*One*
 cve@@@@CVE-2020-4006
 #
+#
+# Exploitation of Pulse Connect Secure Vulnerabilities Alert (AA-21-110A)
+# https://us-cert.cisa.gov/ncas/alerts/aa-21-110a
+signature@@@@*pulse*secure*
+signature@@@@*junos*pulse*
+cve@@@@CVE-2021-22893
+#
+
+
