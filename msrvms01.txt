@@ -59,6 +59,10 @@ cve@@@@CVE-2020-4006
 signature@@@@*pulse*secure*
 signature@@@@*junos*pulse*
 cve@@@@CVE-2021-22893
+cve@@@@CVE-2021-22893
+cve@@@@CVE-2021-22894
+cve@@@@CVE-2021-22899
+cve@@@@CVE-2021-22900
 #
 
 
