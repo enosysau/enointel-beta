@@ -64,5 +64,30 @@ cve@@@@CVE-2021-22894
 cve@@@@CVE-2021-22899
 cve@@@@CVE-2021-22900
 #
-
-
+# 21Nails: Multiple Critical Vulnerabilities in Exim Mail Server
+# https://blog.qualys.com/vulnerabilities-research/2021/05/04/21nails-multiple-vulnerabilities-in-exim-mail-server
+# https://www.bleepingcomputer.com/news/security/critical-21nails-exim-bugs-expose-millions-of-servers-to-attacks/
+# 
+signature@@@@*exim*
+cve@@@@CVE-2020-28017
+cve@@@@CVE-2020-28020
+cve@@@@CVE-2020-28023
+cve@@@@CVE-2020-28021
+cve@@@@CVE-2020-28022
+cve@@@@CVE-2020-28026
+cve@@@@CVE-2020-28019
+cve@@@@CVE-2020-28024
+cve@@@@CVE-2020-28018
+cve@@@@CVE-2020-28025
+cve@@@@CVE-2020-28007
+cve@@@@CVE-2020-28008
+cve@@@@CVE-2020-28014
+cve@@@@CVE-2021-27216
+cve@@@@CVE-2020-28011
+cve@@@@CVE-2020-28010
+cve@@@@CVE-2020-28013
+cve@@@@CVE-2020-28016
+cve@@@@CVE-2020-28015
+cve@@@@CVE-2020-28012
+cve@@@@CVE-2020-28009
+#
