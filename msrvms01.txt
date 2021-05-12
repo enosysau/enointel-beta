@@ -29,8 +29,8 @@ cve@@@@CVE-2021-26897
 signature@@@@Microsoft DNS Server *
 signature@@@@*SAP NetWeaver*
 signature@@@@*SAP Solution Manager*
-# 
-# 
+#
+#
 cve@@@@CVE-2021-28480
 cve@@@@CVE-2021-28481
 cve@@@@CVE-2021-28482
@@ -64,10 +64,10 @@ cve@@@@CVE-2021-22894
 cve@@@@CVE-2021-22899
 cve@@@@CVE-2021-22900
 #
+#
 # 21Nails: Multiple Critical Vulnerabilities in Exim Mail Server
 # https://blog.qualys.com/vulnerabilities-research/2021/05/04/21nails-multiple-vulnerabilities-in-exim-mail-server
 # https://www.bleepingcomputer.com/news/security/critical-21nails-exim-bugs-expose-millions-of-servers-to-attacks/
-# 
 signature@@@@*exim*
 cve@@@@CVE-2020-28017
 cve@@@@CVE-2020-28020
@@ -91,3 +91,9 @@ cve@@@@CVE-2020-28015
 cve@@@@CVE-2020-28012
 cve@@@@CVE-2020-28009
 #
+#
+# Hypervisor Jackpotting: CARBON SPIDER and SPRITE SPIDER Target ESXi Servers With Ransomware to Maximize Impact
+# https://twitter.com/gossithedog/status/1324896051128635392?s=21
+# https://www.crowdstrike.com/blog/carbon-spider-sprite-spider-target-esxi-servers-with-ransomware/
+cve@@@@CVE-2019-5544
+cve@@@@CVE-2020-3992
