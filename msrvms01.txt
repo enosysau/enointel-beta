@@ -101,3 +101,12 @@ cve@@@@CVE-2021-21972
 cve@@@@CVE-2021-21976
 signature@@@@*VMSA-2021-0001*
 signature@@@@*VMSA-2021-0002*
+#
+#
+# Zerologon (CVE-2020-1472): An Unauthenticated Privilege Escalation to Full Domain Privileges
+# https://www.crowdstrike.com/blog/cve-2020-1472-zerologon-security-advisory/
+# 2021-05-18 SSIGRE: Seems every few weeks we see people attempt to leverage this as part of a local attack
+cve@@@@CVE-2020-1472
+signature@@@@**Zerologon*
+#
+#
