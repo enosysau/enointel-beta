@@ -110,3 +110,12 @@ cve@@@@CVE-2020-1472
 signature@@@@**Zerologon*
 #
 #
+# VMware vCenter Server updates address remote code execution and authentication vulnerabilities (CVE-2021-21985, CVE-2021-21986)
+# https://blogs.vmware.com/vsphere/2021/05/vmsa-2021-0010.html
+# https://www.vmware.com/security/advisories/VMSA-2021-0010.html
+signature@@@@*VMSA-2021-0010*
+signature@@@@*vmware*vcenter*
+cve@@@@CVE-2021-21985
+cve@@@@CVE-2021-21986
+#
+#
