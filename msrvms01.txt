@@ -119,3 +119,5 @@ cve@@@@CVE-2021-21985
 cve@@@@CVE-2021-21986
 #
 #
+#
+signature="*FortiManager*"
