@@ -121,3 +121,10 @@ cve@@@@CVE-2021-21986
 #
 #
 signature=*FortiManager*
+#
+#
+# Proof-of-Concept Leaked for Critical Windows Print Spooler Vulnerability
+# https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1675
+# https://twitter.com/RedDrip7/status/1409353110187757575
+# https://www.tenable.com/blog/cve-2021-1675-proof-of-concept-leaked-for-critical-windows-print-spooler-vulnerability
+signature@@@@*CVE-2021-1675*
