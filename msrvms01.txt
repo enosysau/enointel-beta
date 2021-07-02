@@ -128,3 +128,7 @@ signature=*FortiManager*
 # https://twitter.com/RedDrip7/status/1409353110187757575
 # https://www.tenable.com/blog/cve-2021-1675-proof-of-concept-leaked-for-critical-windows-print-spooler-vulnerability
 signature@@@@*CVE-2021-1675*
+#
+#
+#https://us-cert.cisa.gov/ncas/current-activity/2021/07/02/kaseya-vsa-supply-chain-ransomware-attack
+signature@@@@*kaseya*
