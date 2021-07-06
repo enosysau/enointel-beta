@@ -1,0 +1,135 @@
+#cve@@@@blah
+#mskb@@@@blah
+#bugtraq@@@@blah
+#msft@@@@blah
+#signature@@@@blah
+#
+cve@@@@CVE-2017-0199
+cve@@@@CVE-2017-5638
+cve@@@@CVE-2012-0158
+cve@@@@CVE-2019-0604
+cve@@@@CVE-2017-0143
+cve@@@@CVE-2018-4878
+cve@@@@CVE-2017-8759
+cve@@@@CVE-2015-1641
+cve@@@@CVE-2018-7600
+cve@@@@CVE-2019-19781
+cve@@@@CVE-2019-11510
+cve@@@@CVE-2020-1350
+cve@@@@CVE-2021-21972
+mskb@@@@kb6969696
+signature@@@@*accellion*
+signature@@@@*sonicwall*
+signature@@@@*centreon*
+signature@@@@*teamviewer*
+signature@@@@*microsoft exchange*
+signature@@@@*F5 BIG-IP * Interface*
+signature@@@@*F5 Networks BIG-IQ*
+cve@@@@CVE-2021-26897
+signature@@@@Microsoft DNS Server *
+signature@@@@*SAP NetWeaver*
+signature@@@@*SAP Solution Manager*
+#
+#
+cve@@@@CVE-2021-28480
+cve@@@@CVE-2021-28481
+cve@@@@CVE-2021-28482
+cve@@@@CVE-2021-28483
+#
+#
+# Russian Foreign Intelligence Service Exploiting Five Publicly Known Vulnerabilities to Compromise U.S. and Allied Networks
+# https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2573391/russian-foreign-intelligence-service-exploiting-five
+signature@@@@*Fortinet*
+cve@@@@CVE-2018-13379
+signature@@@@*zimbra*
+cve@@@@CVE-2019-9670
+signature@@@@*pulse*secure*
+cve@@@@CVE-2019-11510
+signature@@@@*netscaler*
+signature@@@@*citrix*adc*
+cve@@@@CVE-2019-19781
+signature@@@@*VMware*One*
+cve@@@@CVE-2020-4006
+#
+#
+# Exploitation of Pulse Connect Secure Vulnerabilities Alert (AA-21-110A)
+# https://us-cert.cisa.gov/ncas/alerts/aa-21-110a
+# https://us-cert.cisa.gov/ncas/current-activity/2021/05/03/ivanti-releases-pulse-secure-security-update
+# https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA44784
+signature@@@@*pulse*secure*
+signature@@@@*junos*pulse*
+cve@@@@CVE-2021-22893
+cve@@@@CVE-2021-22893
+cve@@@@CVE-2021-22894
+cve@@@@CVE-2021-22899
+cve@@@@CVE-2021-22900
+#
+#
+# 21Nails: Multiple Critical Vulnerabilities in Exim Mail Server
+# https://blog.qualys.com/vulnerabilities-research/2021/05/04/21nails-multiple-vulnerabilities-in-exim-mail-server
+# https://www.bleepingcomputer.com/news/security/critical-21nails-exim-bugs-expose-millions-of-servers-to-attacks/
+signature@@@@*exim*
+cve@@@@CVE-2020-28017
+cve@@@@CVE-2020-28020
+cve@@@@CVE-2020-28023
+cve@@@@CVE-2020-28021
+cve@@@@CVE-2020-28022
+cve@@@@CVE-2020-28026
+cve@@@@CVE-2020-28019
+cve@@@@CVE-2020-28024
+cve@@@@CVE-2020-28018
+cve@@@@CVE-2020-28025
+cve@@@@CVE-2020-28007
+cve@@@@CVE-2020-28008
+cve@@@@CVE-2020-28014
+cve@@@@CVE-2021-27216
+cve@@@@CVE-2020-28011
+cve@@@@CVE-2020-28010
+cve@@@@CVE-2020-28013
+cve@@@@CVE-2020-28016
+cve@@@@CVE-2020-28015
+cve@@@@CVE-2020-28012
+cve@@@@CVE-2020-28009
+#
+#
+# Hypervisor Jackpotting: CARBON SPIDER and SPRITE SPIDER Target ESXi Servers With Ransomware to Maximize Impact
+# https://twitter.com/gossithedog/status/1324896051128635392?s=21
+# https://www.crowdstrike.com/blog/carbon-spider-sprite-spider-target-esxi-servers-with-ransomware/
+cve@@@@CVE-2019-5544
+cve@@@@CVE-2020-3992
+cve@@@@CVE-2021-21972
+cve@@@@CVE-2021-21976
+signature@@@@*VMSA-2021-0001*
+signature@@@@*VMSA-2021-0002*
+#
+#
+# Zerologon (CVE-2020-1472): An Unauthenticated Privilege Escalation to Full Domain Privileges
+# https://www.crowdstrike.com/blog/cve-2020-1472-zerologon-security-advisory/
+# 2021-05-18 SSIGRE: Seems every few weeks we see people attempt to leverage this as part of a local attack
+cve@@@@CVE-2020-1472
+signature@@@@**Zerologon*
+#
+#
+# VMware vCenter Server updates address remote code execution and authentication vulnerabilities (CVE-2021-21985, CVE-2021-21986)
+# https://blogs.vmware.com/vsphere/2021/05/vmsa-2021-0010.html
+# https://www.vmware.com/security/advisories/VMSA-2021-0010.html
+signature@@@@*VMSA-2021-0010*
+signature@@@@*vmware*vcenter*
+cve@@@@CVE-2021-21985
+cve@@@@CVE-2021-21986
+#
+#
+#
+signature=*FortiManager*
+#
+#
+# Proof-of-Concept Leaked for Critical Windows Print Spooler Vulnerability
+# https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-1675
+# https://twitter.com/RedDrip7/status/1409353110187757575
+# https://www.tenable.com/blog/cve-2021-1675-proof-of-concept-leaked-for-critical-windows-print-spooler-vulnerability
+signature@@@@*CVE-2021-1675*
+#
+#
+#https://us-cert.cisa.gov/ncas/current-activity/2021/07/02/kaseya-vsa-supply-chain-ransomware-attack
+signature@@@@*kaseya*
+software@@@@*kaseya*
