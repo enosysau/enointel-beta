@@ -3,6 +3,8 @@
 #bugtraq@@@@blah
 #msft@@@@blah
 #signature@@@@blah
+#software@@@@blah
+#software@@@@blah!!!version
 #
 cve@@@@CVE-2017-0199
 cve@@@@CVE-2017-5638
@@ -140,3 +142,9 @@ software@@@@*kaseya*
 # https://www.theregister.com/2021/07/12/solarwinds_patch_attack/
 cve@@@@CVE-2021-35211
 signature@@@@*serv-u*
+#
+#
+# Outdated SharePoint Server (Top 10 Routinely Exploited Vulnerabilities)
+# https://us-cert.cisa.gov/ncas/alerts/aa20-133a
+# Prooves any 201* in name with software version starting with 1 (i.e. 13, 14, 15)
+software@@@@Microsoft SharePoint Server 201*!!!!1*
